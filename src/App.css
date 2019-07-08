@@ -7,9 +7,11 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.sky-logo{
+  height: 40vmin;
+  pointer-events: none;
+}
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -18,16 +20,48 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.main_bg{
+  background: url("./Cb8.gif") no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
 
 .App-link {
   color: #61dafb;
 }
+.timer{
+  background-color: transparent;
+  color: #61dafb;
+  font-size: 14px;
+}
+.button{
+  background: transparent;
+  padding: 15px;
+  border: 1px solid whitesmoke;
+  cursor: pointer;
+  border-radius: 10px ;
+  color: whitesmoke;
+  font-size: 15px;
+}
+.button:nth-child(2){
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.controls-block{
 
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+  }
+}
+@media (max-width: 1000px) {
+  .main_bg{
+    background: url("./Cb8.gif") no-repeat;
+    background-position: center;
+    background-size: 1001px 1001px;
   }
 }
