@@ -57,7 +57,7 @@ class Weather extends React.Component{
         }
         return (
             <div>
-                <h1> weather in {this.state.city} </h1>
+                <h1> weather from {this.state.city} </h1>
 
                 {imageSrc}
 
