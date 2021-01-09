@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022d0ede-0e27-4c5e-af4a-0e7a38ad5500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +97,7 @@
       <workItem from="1565821418982" duration="25000" />
       <workItem from="1598716059835" duration="805000" />
       <workItem from="1598955404426" duration="155000" />
-      <workItem from="1610204396151" duration="6295000" />
+      <workItem from="1610204396151" duration="6452000" />
     </task>
     <task id="LOCAL-00001" summary="local fix">
       <created>1598716711322</created>
@@ -111,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598716711322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="icon fix and others">
+      <created>1610216954778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610216954778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="local fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="local fix" />
+    <MESSAGE value="icon fix and others" />
+    <option name="LAST_COMMIT_MESSAGE" value="icon fix and others" />
   </component>
 </project>
