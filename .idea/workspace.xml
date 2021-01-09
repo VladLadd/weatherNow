@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="022d0ede-0e27-4c5e-af4a-0e7a38ad5500" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,12 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="180" />
-    <option name="y" value="112" />
-    <option name="width" value="1080" />
-    <option name="height" value="676" />
   </component>
   <component name="ProjectId" id="1gmNy1JKXyvWXI4IWFNBkTFMCV2" />
   <component name="ProjectViewState">
@@ -36,6 +53,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="npm.start">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -65,6 +84,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,33 +100,43 @@
       <workItem from="1563349657232" duration="367000" />
       <workItem from="1565176436518" duration="2413000" />
       <workItem from="1565821418982" duration="25000" />
-      <workItem from="1598716059835" duration="422000" />
+      <workItem from="1598716059835" duration="805000" />
+      <workItem from="1598955404426" duration="155000" />
+      <workItem from="1610204396151" duration="6295000" />
     </task>
+    <task id="LOCAL-00001" summary="local fix">
+      <created>1598716711322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598716711322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1771" height="691" key="GridCell.Tab.0.bottom" timestamp="1598716327518">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="691" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1598716327518" />
-    <state width="1771" height="691" key="GridCell.Tab.0.center" timestamp="1598716327515">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="691" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1598716327515" />
-    <state width="1771" height="691" key="GridCell.Tab.0.left" timestamp="1598716327513">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="691" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1598716327513" />
-    <state width="1771" height="691" key="GridCell.Tab.0.right" timestamp="1598716327517">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="691" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1598716327517" />
-    <state x="594" y="315" width="604" height="490" key="find.popup" timestamp="1598716284239">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="594" y="315" width="604" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598716284239" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="local fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="local fix" />
   </component>
 </project>
